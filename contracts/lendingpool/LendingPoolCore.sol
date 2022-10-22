@@ -77,7 +77,7 @@ contract LendingPoolCore is VersionedInitializable {
 
     address[] public reservesList;
 
-    uint256 public constant CORE_REVISION = 0x6;
+    uint256 public constant CORE_REVISION = 0x7;
 
     /**
     * @dev returns the revision number of the contract
